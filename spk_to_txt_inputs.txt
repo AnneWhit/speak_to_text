@@ -1,0 +1,36 @@
+missed = 1,4,5,11
+two, three
+six, seven, eight, nine, ten,
+12, 13, 14, 15, 16, 17, 18, 19, 20 exit
+try again- unknown value error- count to 3 in head before starting
+one, two, three, four, five, six, seven, eight, nine, 10, 11, 12, 13,
+15, 16, 17, 18, 19,
+try again-exit didn't work-missing 7,8
+one, two, three, four, five, six
+9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+try again- take out the print-speak-missing 8,9,10,18,19 - did worse
+one, two, three, four, five, six, seven,
+, 11, 12, 13, 14, 15, 16, 17,
+20 exit
+try again- put into text var - didn't like that at all
+try again-duration down 0.5-all numbers printed, but didn't f.write-didn't exit
+try again-don't say exit so quick- did well, but still didn't continur listening
+ one, two, three, four, five, six, seven, eight, nine, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+try again-duration to 0.8-exit worked had to wait awhile though missing #'s
+one, two, three, four, five, six
+, 9, 10, 11, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+exit exit exit the program
+try again- duration 0.7-missing 15,16,17,19-exit worked right away
+one, two, three, four, five, six, seven, eight, nine, 10, 11, 12, 13, 14,
+teen, 18
+, 20 exit
+try again-duration 0.65-exit didn't work but all there waited 2 min
+one, two, three, four, five, six, seven, eight, nine, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+try again - duration 0.7-did not exit-print to terminal but not in here
+try again-print back up-duration 0.9-when speak prints,start at stopped,a little slow but worked
+one, two, three, four, five, six, seven, eight
+, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+exit the program
+try again-duration 1-said exit exit after numbers- worked great
+one, two, three, four, five, six, seven, eight, nine, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 exit
+put excemptions in--
